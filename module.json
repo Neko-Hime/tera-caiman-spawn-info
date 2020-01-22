@@ -1,0 +1,7 @@
+{
+  "name": "Caiman spawn info",
+  "author": "Neko-Hime",
+  "description": "Caiman spawn info",
+  "servers": ["https://raw.githubusercontent.com/Neko-Hime/tera-caiman-spawn-info/master/"],
+  "version": "1.0"
+}

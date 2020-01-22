@@ -1,0 +1,10 @@
+{
+  "files": {
+    "index.js": "8bf9cc5d24abfae6b53b8a664cbfe139c2923fca07112c190737db30e8e7be50",
+    "module.json": "7c7e873dccbba72b5e82ac2b1444b19264843c0e61a312618f5ebe6ce454739f"
+  },
+  "defs": {
+    "S_SPAWN_NPC": 11,
+    "S_DUNGEON_EVENT_MESSAGE": 2
+  }
+}
