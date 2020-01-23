@@ -7,10 +7,10 @@ module.exports = function CaimanSpawnInfo(mod) {
             switch (event.templateId) {
                 case 8000:
                     sendMessage(EVENT_MESSAGE_TYPE, 'Caiman Spawned');
-                    return false;
+                    break;
                 case 7000:
                     sendMessage(EVENT_MESSAGE_TYPE, 'Portal Spawned');
-                    return false;
+                    break;
             }
         }
     });
